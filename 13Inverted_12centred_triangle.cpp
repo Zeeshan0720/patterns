@@ -14,7 +14,7 @@ int main()
         {
             cout << (" ");
         }
-        for (int j = 2*i-1; j < n+4; j++)
+        for (int k = 2*i-1; k < n+4; k++)
         {
             cout << ("*");
         }
