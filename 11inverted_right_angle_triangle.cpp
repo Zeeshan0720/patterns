@@ -12,7 +12,7 @@ int main()
     {
         for (int j = i; j < n; j++)
         {
-            cout << ("*");
+            cout << ("* ");
         }
         cout << ("\n");
     }
